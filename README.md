@@ -1,3 +1,3 @@
 # cdn
 
-My CDN Files
+My Affiliate CDN Files
