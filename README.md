@@ -1,3 +1,3 @@
 # cdn
 
-Affiliate CDN Files
+Affiliate Marketing CDN Files
